@@ -1,0 +1,30 @@
+*{
+  background-color: blue;
+}
+.container{
+  background-color: blue;
+  display: flex;
+  padding: 10px;
+}
+.input{
+  height: 600px;
+  width: 550px;
+  margin: 0 15%;
+}
+.output{
+  height: 600px;
+  width: 500px;
+}
+.input-text{
+  height: 410px;
+  width: 550px;
+  background-color: blue;
+  border: 2px solid black;
+  color: white;
+}
+.output-text{
+  height: 500px;
+  width: 450px;
+  background-color: black;
+  color: white;
+}
